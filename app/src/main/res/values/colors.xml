@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorin">#f4ff81</color>
+    <color name="dump_purple_500">#673ab7</color>
+    <color name="purple_500">#9c27b0</color>
+    <color name="indigo_500">#3f51b5</color>
+    <color name="blue_500">#2196f3</color>
+    <color name="cyan_500">#00bcd4</color>
+    <color name="white">#fff</color>
+    <color name="green">#75e900</color>
+</resources>
